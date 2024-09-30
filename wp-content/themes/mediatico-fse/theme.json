@@ -39,161 +39,17 @@
 			"defaultDuotone": false,
 			"defaultGradients": false,
 			"defaultPalette": false,
-			"duotone": [
-				{
-					"colors": [
-						"#111111",
-						"#ffffff"
-					],
-					"name": "Noir et blanc",
-					"slug": "duotone-1"
-				},
-				{
-					"colors": [
-						"#111111",
-						"#C2A990"
-					],
-					"name": "Noir et grès",
-					"slug": "duotone-2"
-				},
-				{
-					"colors": [
-						"#111111",
-						"#D8613C"
-					],
-					"name": "Noir et rouille",
-					"slug": "duotone-3"
-				},
-				{
-					"colors": [
-						"#111111",
-						"#B1C5A4"
-					],
-					"name": "Noir et sauge",
-					"slug": "duotone-4"
-				},
-				{
-					"colors": [
-						"#111111",
-						"#B5BDBC"
-					],
-					"name": "Noir et bleu pastel",
-					"slug": "duotone-5"
-				}
-			],
-			"gradients": [
-				{
-					"gradient": "linear-gradient(to bottom, #cfcabe 0%, #F9F9F9 100%)",
-					"name": "Vertical doux de beige au blanc",
-					"slug": "gradient-1"
-				},
-				{
-					"gradient": "linear-gradient(to bottom, #C2A990 0%, #F9F9F9 100%)",
-					"name": "Vertical doux de grès au blanc",
-					"slug": "gradient-2"
-				},
-				{
-					"gradient": "linear-gradient(to bottom, #D8613C 0%, #F9F9F9 100%)",
-					"name": "Vertical doux de rouille au blanc",
-					"slug": "gradient-3"
-				},
-				{
-					"gradient": "linear-gradient(to bottom, #B1C5A4 0%, #F9F9F9 100%)",
-					"name": "Vertical doux de sauge au blanc",
-					"slug": "gradient-4"
-				},
-				{
-					"gradient": "linear-gradient(to bottom, #B5BDBC 0%, #F9F9F9 100%)",
-					"name": "Vertical doux de menthe au blanc",
-					"slug": "gradient-5"
-				},
-				{
-					"gradient": "linear-gradient(to bottom, #A4A4A4 0%, #F9F9F9 100%)",
-					"name": "Vertical doux de l’étain au blanc",
-					"slug": "gradient-6"
-				},
-				{
-					"gradient": "linear-gradient(to bottom, #cfcabe 50%, #F9F9F9 50%)",
-					"name": "Vertical net du beige au blanc",
-					"slug": "gradient-7"
-				},
-				{
-					"gradient": "linear-gradient(to bottom, #C2A990 50%, #F9F9F9 50%)",
-					"name": "Vertical net de grès au blanc",
-					"slug": "gradient-8"
-				},
-				{
-					"gradient": "linear-gradient(to bottom, #D8613C 50%, #F9F9F9 50%)",
-					"name": "Vertical net de rouille au blanc",
-					"slug": "gradient-9"
-				},
-				{
-					"gradient": "linear-gradient(to bottom, #B1C5A4 50%, #F9F9F9 50%)",
-					"name": "Vertical net de sauge au blanc",
-					"slug": "gradient-10"
-				},
-				{
-					"gradient": "linear-gradient(to bottom, #B5BDBC 50%, #F9F9F9 50%)",
-					"name": "Vertical net de menthe au blanc",
-					"slug": "gradient-11"
-				},
-				{
-					"gradient": "linear-gradient(to bottom, #A4A4A4 50%, #F9F9F9 50%)",
-					"name": "Vertical net de l’étain au blanc",
-					"slug": "gradient-12"
-				}
-			],
 			"palette": [
 				{
-					"color": "#f9f9f9",
-					"name": "Base",
-					"slug": "base"
+					"color": "#000000",
+					"name": "Noir",
+					"slug": "black"
 				},
 				{
 					"color": "#ffffff",
-					"name": "Base / Deux",
-					"slug": "base-2"
-				},
-				{
-					"color": "#111111",
-					"name": "Contraste",
-					"slug": "contrast"
-				},
-				{
-					"color": "#636363",
-					"name": "Contraste / Deux",
-					"slug": "contrast-2"
-				},
-				{
-					"color": "#A4A4A4",
-					"name": "Contraste / Trois",
-					"slug": "contrast-3"
-				},
-				{
-					"color": "#cfcabe",
-					"name": "Accent",
-					"slug": "accent"
-				},
-				{
-					"color": "#c2a990",
-					"name": "Accent / Deux",
-					"slug": "accent-2"
-				},
-				{
-					"color": "#d8613c",
-					"name": "Accent / Trois",
-					"slug": "accent-3"
-				},
-				{
-					"color": "#b1c5a4",
-					"name": "Accent / Quatre",
-					"slug": "accent-4"
-				},
-				{
-					"color": "#b5bdbc",
-					"name": "Accent / Cinq",
-					"slug": "accent-5"
-				},
+					"name": "Blanc",
+					"slug": "white"
+				}, 
 				{
 					"color": "#196296",
 					"name": "Bleu edito + actu",
