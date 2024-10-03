@@ -1,0 +1,27 @@
+{
+  "name": "mediatico-fse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agat-dev/mediatico.git"
+  },
+  "keywords": [
+    "theme",
+    "mediatico",
+    "blocks"
+  ],
+  "author": "Agathe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agat-dev/mediatico/issues"
+  },
+  "homepage": "https://github.com/agat-dev/mediatico#readme",
+  "description": "",
+  "dependencies": {
+    "@wordpress/scripts": "^30.0.2"
+  }
+}
